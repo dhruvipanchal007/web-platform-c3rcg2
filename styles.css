@@ -24,3 +24,17 @@ body{
 section li{
   margin: 15px 0px 0px 20px;
 }
+
+.nav-list{
+  position: fixed;
+  min-width: 290px;
+  width: 300px;
+  height: 100%;
+  border-color:rgba(0, 22, 22, 0.4) ;
+  border-right: solid;
+}
+.main{
+  max-width: 1000px;
+  text-align: left;
+  margin-left: auto;
+}
