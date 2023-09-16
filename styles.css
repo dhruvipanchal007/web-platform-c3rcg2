@@ -47,6 +47,7 @@ section li {
 .nav-list ul {
   padding: 0;
   overflow-y: scroll;
+  height: 600px;
 }
 .nav-link {
   display: block;
@@ -70,8 +71,4 @@ section li {
     margin-top: 270px
 
 }
-}
-.nav-list{
-  display: flex;
-  flex-wrap: wrap;
 }
